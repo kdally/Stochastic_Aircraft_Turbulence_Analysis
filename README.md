@@ -14,5 +14,5 @@ Note: By default, pre-saved noise inputs are used, so that the results match the
 Uncomment line 32 to generate new noise inputs.
 
 
-Information: 'horz' refers to the horizontal disturbance case
-            'vert' refers to the horizontal disturbance case
+Information: 'horz' refers to the horizontal disturbance case.
+            'vert' refers to the horizontal disturbance case.
