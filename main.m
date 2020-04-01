@@ -1,4 +1,4 @@
-% Stochastic Aerospace Systems Practical Assingment
+% Stochastic Aerospace Systems Practical Assignment
 % Code from Killian Dally (4553373)
 % April 2020
 %
