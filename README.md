@@ -1,4 +1,4 @@
-＃Stochastic Aerospace Systems Practical Assingment
+# Stochastic Aerospace Systems Practical Assingment
 April 2020
 
 Author: Killian Dally (4553373)
